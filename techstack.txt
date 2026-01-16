@@ -1,5 +1,0 @@
-python flask --backend
-openai whisper -- speak (voice) to txxt
-groq --llm(ai)
-html,css,tailwind ----frontend 
-firebase -auth,database
